@@ -1,0 +1,1 @@
+nohup python RNA-seq-new.py -i 20240104.csv -n 20240104 -p 16 -r /mnt/hgfs/chiapipe/pipeline_development/ref_genome/hg38_star_index_2.7.10 -s /mnt/hgfs/chiapipe/pipeline_development/ref_genome/rna-seq/hg38_rsem_index/rsem &
